@@ -32,6 +32,7 @@ Allows users to perform basic arithmetic operations on fractions seamlessly.
 Demerits:
 
 Limited to basic arithmetic operations; does not handle more complex mathematical operations.
+
 Does not include error handling for cases such as performing operations on three or more fractions.
 
 

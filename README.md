@@ -26,6 +26,7 @@ Merits and Demerits:
 Merits:
 
 Offers a straightforward implementation for working with fractions in Python. 
+
 Allows users to perform basic arithmetic operations on fractions seamlessly.
 
 Demerits:

@@ -33,7 +33,7 @@ class Fraction:
     d_num = self.den*other.den
     return '{}/{}'.format(n_num,d_num)
 
-  # __truediv__ is a special method for division of fractions
+  # __truediv__ is a special method for the division of fractions
   def __truediv__(self.other):
     # Division of fractions: (a/b) / (c/d) = ad / bc
     n_num = self.num*other.den

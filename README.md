@@ -21,7 +21,7 @@ Division (__truediv__): Divides one fraction by another.
 String Representation (__str__): Provides a string representation of the fraction.
 
 
-Merits and Demerits:
+**Merits and Demerits:**
 
 Merits:
 

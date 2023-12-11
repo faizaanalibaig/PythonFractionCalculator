@@ -2,7 +2,7 @@
 # Let's create a custom datatype that can store values as fractions.
 
 class Fraction:
-  # Constructor method to initialize the fraction with numerator (n) and denominator (d)
+  # __init__ is a Constructor method to initialize the fraction with numerator (n) and denominator (d)
   def __init__(self,n,d):
     self.num = n
     self.den = d

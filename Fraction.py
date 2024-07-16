@@ -1,4 +1,4 @@
-# In Python, there isn't a built-in data type for fractions like (4/5).
+# "In Python, there isn't a built-in data type for directly storing fractions in their fractional form, such as 4/5."
 # Let's create a custom datatype that can store values as fractions.
 
 class Fraction:
